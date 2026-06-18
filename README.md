@@ -4,24 +4,20 @@
 
 ### Dokumentim Faktesh &nbsp;·&nbsp; Analiza Ligjore &nbsp;·&nbsp; Kronologji Shkeljesh &nbsp;·&nbsp; Deklarata &nbsp;·&nbsp; Referendum
 
-<br>
 
-[![Kronologjia e VNM-së, Ndërtimit dhe Pezullimit](kronologjia_vnm_ndertimi_pezullim.png)](Shkeljet_ligjore_vnm/README.md)
-
-<br>
 
 ---
 
-## Zgjidhni një temë
+
 
 <br>
 
 <table>
 <tr>
-
 <td align="center" width="33%">
 <a href="Shkeljet_ligjore_vnm/README.md">
 <br>
+
 <h2>⚖️</h2>
 <h3>Shkeljet Ligjore</h3>
 <p>VNM · Ndërtimi pa leje · Kronologjia e shkeljeve dhe nenet e zbatueshme</p>
@@ -42,9 +38,11 @@
 <td align="center" width="33%">
 <a href="Referendum/README.md">
 <br>
+
 <h2>🗳️</h2>
-<h3>Referendumi i Paketës së Maleve</h3>
-<p>Procesi i referendumit dhe kërkesat për mbrojtjen e territorit</p>
+<h3>Referendumi</h3>
+<p>Referendumi i paketes se maleve dhe ligjit 21/2024</p>
+
 <br>
 </a>
 </td>
