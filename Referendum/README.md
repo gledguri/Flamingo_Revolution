@@ -21,3 +21,8 @@
 **[▶ &nbsp; Shiko videon në YouTube](https://www.youtube.com/shorts/ZwF3qrm4NQA)**
 
 </div>
+
+---
+
+Presim me shume information nga Dorina Prethi
+[kontakto](gled.guri@gmail.com)
