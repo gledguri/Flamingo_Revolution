@@ -93,7 +93,7 @@ Punimet e ndërtimit nisën **pa asnjë dokumentacion mjedisor** — pa VNM, pa 
 
 **Ndalim i menjëhershëm** nga inspektimi, me bazë nenin 67 dhe 69 të ligjit 81/2017. Kjo ishte *pika e parë e ndalimit* — e humbur.
 
-### [📄 Lexo Dosjen e Plotë → Dosja 02](Fakte/02_shkelja_1_maj.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 02](../Fakte/02_shkelja_1_maj.md)
 
 <br>
 
@@ -119,7 +119,7 @@ Kompania paraqiti aplikimin për VNM **4 ditë pas** fillimit të punimeve.
 
 Aplikimi i bërë pas faktit **nuk shlyen** shkeljen e 1 majit dhe **nuk legjitimizoi** vazhdimin e punimeve gjatë procesit të VNM-së. Procesi i VNM-së kërkon kohë — konsultim publik, analiza, raportim. Gjatë gjithë kësaj periudhe punimet duhet të jenë **në pritje**.
 
-### [📄 Lexo Dosjen e Plotë → Dosja 03](Fakte/03_aplikimi_vnm_5_maj.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 03](../Fakte/03_aplikimi_vnm_5_maj.md)
 
 <br>
 
@@ -153,7 +153,7 @@ Ministria thotë: *projekti ka ndikim kaq të rëndë sa kërkon VNM-ën më rig
 
 Pas 15 majit, pezullimi ishte i detyrueshëm ligjërisht. Erdhi 21 ditë më vonë.
 
-### [📄 Lexo Dosjen e Plotë → Dosja 04](Fakte/04_vnm_e_thelluar_15_maj.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 04](../Fakte/04_vnm_e_thelluar_15_maj.md)
 
 <br>
 
@@ -187,7 +187,7 @@ Pavarësisht vendimit të Ministrisë (15 maj), punimet vazhduan pa ndërprerje 
 - Cilët zyrtarë kishin kompetencë por nuk ndërhynë?
 - Çfarë ndërhyrjesh fizike u kryen gjatë kësaj periudhe?
 
-### [📄 Lexo Dosjen e Plotë → Dosja 05](Fakte/05_vazhdimi_i_paligjshem.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 05](../Fakte/05_vazhdimi_i_paligjshem.md)
 
 <br>
 
@@ -220,7 +220,7 @@ Punimet u pezulluan zyrtarisht më **5 qershor** — **35 ditë** pas fillimit t
 3. **Hetim administrativ** — pse autoritetet vonesuan 35 ditë
 4. **Rifillim i procesit** nga hapi 1 (VNM e thelluar) nëse projekti vazhdon
 
-### [📄 Lexo Dosjen e Plotë → Dosja 06](Fakte/06_pezullimi_5_qershor.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 06](../Fakte/06_pezullimi_5_qershor.md)
 
 <br>
 
@@ -337,13 +337,6 @@ Ligji specifik i VNM-së — procedura e plotë, sekuencat, nivelet (shtojca I/I
 
 ---
 
-## 📖 Analiza e Plotë
-
-Shpjegimi i detajuar i të gjitha aspekteve ligjore — ligjet, VNM-ja, rasti praktik, pikat e ndërhyrjes dhe pasojat ligjore:
-
-**[→ Context.md — Analiza e Plotë Ligjore](Context.md)**
-
----
 
 <div align="center">
 
