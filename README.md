@@ -19,3 +19,14 @@
 <br>
 
 </div>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⚖️-Shkelje%20Ligjore-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JetPack-6.2.1-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nanopore-MinION%20Mk1B%20%2F%20Mk1D-0084C8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-ARM64-informational?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Basecaller-Dorado%20%28GPU%29-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Offline%20%40%20Edge-success?style=for-the-badge" />
+</p>
