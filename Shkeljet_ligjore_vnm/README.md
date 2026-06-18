@@ -32,7 +32,7 @@ Ky repositor dokumenton shkeljet ligjore të ndodhura gjatë procesit të ndërt
 <br>
 
 
-
+<br>
 <details>
 <summary><b>✅ &nbsp; Para 1 Majit &nbsp;·&nbsp; Rendi Ligjor i Kërkuar</b> &nbsp;<i>(si duhet të ndodhte)</i></summary>
 
@@ -99,7 +99,7 @@ Punimet e ndërtimit nisën **pa asnjë dokumentacion mjedisor** — pa VNM, pa 
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>⚠️ &nbsp; 5 Maj &nbsp;·&nbsp; Aplikim për VNM — 4 Ditë pas Fillimit të Punimeve</b></summary>
@@ -125,7 +125,7 @@ Aplikimi i bërë pas faktit **nuk shlyen** shkeljen e 1 majit dhe **nuk legjiti
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>⚠️ &nbsp; 15 Maj &nbsp;·&nbsp; Ministria Kërkon VNM të Thelluar — Projekti Ende në Vlerësim</b></summary>
@@ -159,7 +159,7 @@ Pas 15 majit, pezullimi ishte i detyrueshëm ligjërisht. Erdhi 21 ditë më von
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>🚨 &nbsp; 15 Maj – 5 Qershor &nbsp;·&nbsp; SHKELJE NË VAZHDIM: 21 Ditë Punime të Paligjshme</b></summary>
@@ -193,7 +193,7 @@ Pavarësisht vendimit të Ministrisë (15 maj), punimet vazhduan pa ndërprerje 
 
 </details>
 
----
+<br>
 
 <details>
 <summary><b>✅ &nbsp; 5 Qershor &nbsp;·&nbsp; Pezullimi — Hap i Duhur, Por 35 Ditë Vonë</b></summary>
