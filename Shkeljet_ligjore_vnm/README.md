@@ -4,17 +4,6 @@
 
 ### Dokumentim Faktesh &nbsp;·&nbsp; Analiza Ligjore &nbsp;·&nbsp; Kronologji Shkeljesh &nbsp;·&nbsp; Deklarata &nbsp;·&nbsp; Nidhme
 
-*Ndërtimi pa VNM brenda zonave të mbrojtura — faktet, ligjet dhe kronologjia*
-
----
-
-<a id="hero"></a>
-
-[![Kronologjia Vizuale e VNM-së, Ndërtimit dhe Pezullimit](kronologjia_vnm_ndertimi_pezullim.png)]
-
-
----
-
 ## 📌 Rreth Kësaj Faqeje
 
 Ky repositor dokumenton shkeljet ligjore të ndodhura gjatë procesit të ndërtimit brenda (ose në afërsi të) zonave të mbrojtura mjedisore në Shqipëri, ku:
@@ -25,6 +14,13 @@ Ky repositor dokumenton shkeljet ligjore të ndodhura gjatë procesit të ndërt
 - Pezullimi erdhi **35 ditë vonë**, pas dëmeve potenciale të pariparueshme.
 
 > **Shënim:** Ky dokumentim shpjegon çfarë parashikojnë ligjet dhe çfarë ndodhi në praktikë. Nuk është këshillë ligjore. Për vlerësim të rastit konkret duhet konsultuar jurist ose organi kompetent.
+
+---
+
+<a id="hero"></a>
+
+[![Kronologjia Vizuale e VNM-së, Ndërtimit dhe Pezullimit](kronologjia_vnm_ndertimi_pezullim.png)]
+
 
 ---
 
