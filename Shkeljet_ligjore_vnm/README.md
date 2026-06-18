@@ -63,7 +63,7 @@ VNM-ja është **instrument parandalues** — identifikon dëmet *përpara* se t
 
 </details>
 
-
+<br>
 
 <details>
 <summary><b>🚨 &nbsp; 1 Maj &nbsp;·&nbsp; SHKELJE: Ndërtimi Nis pa VNM dhe pa Leje Mjedisi</b></summary>
