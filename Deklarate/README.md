@@ -29,7 +29,7 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
   style="border:none; border-radius:8px;">
 </iframe>
 
-<!-- Fallback for GitHub.com (shown when iframe is stripped) -->
+
 <div align="center">
 
 [![Deklarata e Akademikëve të Diasporës — Hap faqen e plotë](https://image.thum.io/get/width/1200/crop/900/https://diaspora-akademike.org/deklarate.php?ok=1)](https://diaspora-akademike.org/deklarate.php?ok=1#shto)
