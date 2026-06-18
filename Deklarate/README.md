@@ -20,16 +20,6 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 
 ---
 
-
-<iframe
-  src="https://diaspora-akademike.org/deklarate.php?ok=1#shto"
-  width="100%"
-  height="1800"
-  frameborder="0"
-  style="border:none; border-radius:8px;">
-</iframe>
-
-
 <div align="center">
 
 [![Deklarata e Akademikëve të Diasporës — Hap faqen e plotë](https://image.thum.io/get/width/1200/crop/900/https://diaspora-akademike.org/deklarate.php?ok=1)](https://diaspora-akademike.org/deklarate.php?ok=1#shto)
