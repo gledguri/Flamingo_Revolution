@@ -8,7 +8,15 @@
 
 ---
 
-
+<td align="center" width="33%">
+<a href="Shkeljet_ligjore_vnm/README.md">
+<br>
+<h2>⚖️</h2>
+<h3>Shkeljet Ligjore</h3>
+<p>VNM · Ndërtimi pa leje · Kronologjia e shkeljeve dhe nenet e zbatueshme</p>
+<br>
+</a>
+</td>
 
 <br>
 
