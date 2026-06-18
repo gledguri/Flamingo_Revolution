@@ -31,7 +31,7 @@ Ky repositor dokumenton shkeljet ligjore të ndodhura gjatë procesit të ndërt
 
 <br>
 
----
+
 
 <details>
 <summary><b>✅ &nbsp; Para 1 Majit &nbsp;·&nbsp; Rendi Ligjor i Kërkuar</b> &nbsp;<i>(si duhet të ndodhte)</i></summary>
@@ -63,7 +63,7 @@ VNM-ja është **instrument parandalues** — identifikon dëmet *përpara* se t
 
 </details>
 
----
+
 
 <details>
 <summary><b>🚨 &nbsp; 1 Maj &nbsp;·&nbsp; SHKELJE: Ndërtimi Nis pa VNM dhe pa Leje Mjedisi</b></summary>
