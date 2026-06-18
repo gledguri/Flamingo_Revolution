@@ -20,11 +20,11 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 
 ---
 
-<!-- Iframe works in GitHub Pages and local Markdown viewers. GitHub.com strips it — the screenshot below serves as fallback. -->
+
 <iframe
   src="https://diaspora-akademike.org/deklarate.php?ok=1#shto"
   width="100%"
-  height="900"
+  height="1800"
   frameborder="0"
   style="border:none; border-radius:8px;">
 </iframe>
