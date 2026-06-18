@@ -4,12 +4,6 @@
 
 ### Dokumentim Faktesh &nbsp;·&nbsp; Analiza Ligjore &nbsp;·&nbsp; Kronologji Shkeljesh &nbsp;·&nbsp; Deklarata &nbsp;·&nbsp; Referendum
 
-<br>
-
-[![Kronologjia e VNM-së, Ndërtimit dhe Pezullimit](kronologjia_vnm_ndertimi_pezullim.png)](Shkeljet_ligjore_vnm/README.md)
-
-<br>
-
 ---
 
 <br>
