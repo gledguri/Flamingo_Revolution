@@ -25,4 +25,4 @@
 ---
 
 Presim me shume information nga Dorina Prethi
-[kontakto](gled.guri@gmail.com)
+[kontakto](mailto:gled.guri@gmail.com)
