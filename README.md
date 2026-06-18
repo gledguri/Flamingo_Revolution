@@ -6,20 +6,6 @@
 
 *Ndërtimi pa VNM brenda zonave të mbrojtura — faktet, ligjet dhe kronologjia*
 
-<br>
-
-<table>
-<tr>
-  <td align="center" width="20%"><a href="#kronologjia"><b>📅<br>Kronologjia</b></a></td>
-  <td align="center" width="20%"><a href="#ligjet"><b>⚖️<br>Ligjet</b></a></td>
-  <td align="center" width="20%"><a href="#shkeljet"><b>🚨<br>Shkeljet</b></a></td>
-  <td align="center" width="20%"><a href="#dosjet"><b>📂<br>Dosjet</b></a></td>
-  <td align="center" width="20%"><a href="Context.md"><b>📖<br>Analiza e Plotë</b></a></td>
-</tr>
-</table>
-
-</div>
-
 ---
 
 <a id="hero"></a>
