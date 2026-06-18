@@ -57,7 +57,7 @@ VNM-ja është **instrument parandalues** — identifikon dëmet *përpara* se t
 - **Ligji 81/2017, neni 4**: Parimi i *parandalimit* dhe *masave paraprake* — detyrim kushtetues mjedisor.
 - **Ligji 81/2017, neni 10**: Shpallja ose ndryshimi i zonave kërkon vlerësim ndikimi.
 
-### [📄 Lexo Dosjen e Plotë → Dosja 01](Fakte/01_rendi_ligjor.md)
+### [📄 Lexo Dosjen e Plotë → Dosja 01](../Fakte/01_rendi_ligjor.md)
 
 <br>
 
