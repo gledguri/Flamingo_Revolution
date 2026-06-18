@@ -4,14 +4,8 @@
 
 ### Dokumentim Faktesh &nbsp;·&nbsp; Analiza Ligjore &nbsp;·&nbsp; Kronologji Shkeljesh &nbsp;·&nbsp; Deklarata &nbsp;·&nbsp; Nidhme
 
-*Ndërtimi pa VNM brenda zonave të mbrojtura — faktet, ligjet dhe kronologjia*
 
----
-
-<a id="hero"></a>
-
-[![Kronologjia Vizuale e VNM-së, Ndërtimit dhe Pezullimit](kronologjia_vnm_ndertimi_pezullim.png)]
-
+[Shkeljet ligjore](Shkeljet_ligjore_vnm/README)
 
 ---
 
