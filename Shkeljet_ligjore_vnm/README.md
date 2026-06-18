@@ -15,11 +15,10 @@ Ky repositor dokumenton shkeljet ligjore të ndodhura gjatë procesit të ndërt
 
 > **Shënim:** Ky dokumentim shpjegon çfarë parashikojnë ligjet dhe çfarë ndodhi në praktikë. Nuk është këshillë ligjore. Për vlerësim të rastit konkret duhet konsultuar jurist ose organi kompetent.
 
----
 
 <a id="hero"></a>
 
-[![Kronologjia Vizuale e VNM-së, Ndërtimit dhe Pezullimit](./kronologjia_vnm_ndertimi_pezullim.png)]
+[![Kronologjia Vizuale e VNM-së, Ndërtimit dhe Pezullimit](/Grafik/kronologjia_vnm_ndertimi_pezullim.png)]
 
 
 ---
