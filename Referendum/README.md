@@ -5,9 +5,7 @@
 ### Dokumentim Faktesh &nbsp;·&nbsp; Analiza Ligjore &nbsp;·&nbsp; Kronologji Shkeljesh &nbsp;·&nbsp; Deklarata &nbsp;·&nbsp; Nidhme
 
 
-[Shkeljet ligjore](Shkeljet_ligjore_vnm/README.md)
-[Deklarata e akademikeve te diaspores](Deklarate/README.md)
-[Referendum i paketes se maleve](Referendum/README.md)
+[Shkeljet ligjore](Shkeljet_ligjore_vnm/README)
 
 ---
 
