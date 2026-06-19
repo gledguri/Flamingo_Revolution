@@ -13,3 +13,5 @@
 <br>
 
 </div>
+
+Kontakt [email](malito:gled.guri@gmail.com)
