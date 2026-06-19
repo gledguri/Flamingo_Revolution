@@ -14,4 +14,4 @@
 
 </div>
 
-Kontakt [email](malito:gled.guri@gmail.com)
+Kontakt [email](mailto:gled.guri@gmail.com)
