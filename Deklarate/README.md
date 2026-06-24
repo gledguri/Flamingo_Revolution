@@ -33,7 +33,7 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 
 <div align="center">
 
-[![Letër e hapur drejtuar Bashkimit Europian](https://image.thum.io/get/width/1200/crop/900/https://ia-see.com/peticioni)
+[![Letër e hapur drejtuar Bashkimit Europian](https://image.thum.io/get/width/1200/crop/900/https://ia-see.com/peticioni)](https://ia-see.com/peticioni)
 
 **[→ Hap faqen e plotë dhe nënshkruaj letrën](https://ia-see.com/peticioni/)**
 
