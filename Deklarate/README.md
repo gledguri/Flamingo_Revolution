@@ -40,7 +40,6 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 </div>
 
 ---
-Deklarate kundrejt presidentit
 <div align="center">
-[![Deklaratë e drejtuar Presidentit te Republikës së Shqipërisë(PDF)](deklarate-president.png)](Deklarate%20per%20protesten.pdf)
+[![Deklaratë e drejtuar Presidentit të Republikës së Shqipërisë (PDF)](deklarate-president.png)](deklarate-per-protesten.pdf)
 </div>
