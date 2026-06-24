@@ -22,7 +22,7 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 
 <div align="center">
 
-[![Deklarata e Akademikëve të Diasporës — Hap faqen e plotë](https://image.thum.io/get/width/1200/crop/900/https://diaspora-akademike.org/deklarate.php?ok=1)](https://diaspora-akademike.org/deklarate.php?ok=1#shto)
+[![Deklarata e Akademikëve të Diasporës — Hap faqen e plotë](https://image.thum.io/get/width/600/crop/400/https://diaspora-akademike.org/deklarate.php?ok=1)](https://diaspora-akademike.org/deklarate.php?ok=1#shto)
 
 **[→ Hap faqen e plotë dhe nënshkruaj deklaratën](https://diaspora-akademike.org/deklarate.php?ok=1#shto)**
 
@@ -33,7 +33,7 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 
 <div align="center">
 
-[![Letër e hapur drejtuar Bashkimit Europian](https://image.thum.io/get/width/1200/crop/900/https://ia-see.com/peticioni)](https://ia-see.com/peticioni)
+[![Letër e hapur drejtuar Bashkimit Europian](https://image.thum.io/get/width/600/crop/400/https://ia-see.com/peticioni)](https://ia-see.com/peticioni)
 
 **[→ Hap faqen e plotë dhe nënshkruaj letrën](https://ia-see.com/peticioni/)**
 
