@@ -10,6 +10,14 @@
 
 ---
 
+### Përmbajtja
+
+1. [📜 Deklarata e Akademikëve të Diasporës](#-1-deklarata-e-akademikëve-të-diasporës)
+2. [✉️ Letër e Hapur Drejtuar Bashkimit Europian](#️-2-letër-e-hapur-drejtuar-bashkimit-europian)
+3. [📄 Letër Kërkesë Drejtuar Presidentit](#-3-letër-kërkesë-drejtuar-presidentit-të-republikës)
+
+---
+
 ## 📜 1. Deklarata e Akademikëve të Diasporës
 
 **"Arsimi, Shkenca dhe Inovacioni — Domosdoshmëri Kombëtare"**
