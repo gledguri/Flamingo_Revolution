@@ -27,3 +27,16 @@ Deklaratë publike e 213+ akademikëve shqiptarë jashtë vendit — nga Evropa,
 **[→ Hap faqen e plotë dhe nënshkruaj deklaratën](https://diaspora-akademike.org/deklarate.php?ok=1#shto)**
 
 </div>
+
+
+---
+
+<div align="center">
+
+[![Letër e hapur drejtuar Bashkimit Europian](https://image.thum.io/get/width/1200/crop/900/https://https://ia-see.com/peticioni)
+
+**[→ Hap faqen e plotë dhe nënshkruaj letrën](https://ia-see.com/peticioni/)**
+
+</div>
+
+
