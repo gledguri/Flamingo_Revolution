@@ -144,7 +144,6 @@ Pas shpërndarjes, zgjedhjet e reja mbahen brenda më së shumti **45 ditësh**.
 - **Mobilizim masiv paqësor** për të bërë presion mbi deputetët që të largohen nga shumica ose të ngrenë mosbesim.
 - **Presion publik dhe ndërkombëtar** (BE, raportet e Parlamentit Europian) për llogaridhënie.
 - **Mbështetje për proceset e drejtësisë** (SPAK).
-- **Zgjedhjet** — disfata në kuti mbetet rruga më e drejtpërdrejtë demokratike.
 
 > **Vërejtje:** Shqipëria **nuk ka** mekanizëm revokimi (*recall*) të nisur nga qytetarët, as nismë qytetare për zgjedhje të parakohshme.
 
