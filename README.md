@@ -8,7 +8,7 @@
 
 <br>
 
-[![Shkeljet Ligjore](assets/btn_shkeljet.svg)](Shkeljet_ligjore_vnm/README.md)&nbsp;&nbsp;&nbsp;[![Edukim ligjor](assets/btn_edukim.svg)](Edukohu/README.md)&nbsp;&nbsp;&nbsp;[![Deklarata e Akademikëve](assets/btn_deklarate.svg)](Deklarate/README.md)&nbsp;&nbsp;&nbsp;[![Referendumi](assets/btn_referendum.svg)](Referendum/README.md)
+[![Shkeljet Ligjore](assets/btn_shkeljet.svg)](Shkeljet_ligjore_vnm/README.md)&nbsp;&nbsp;&nbsp;[![Mekanizmat Ligjore](assets/btn_mekanizmat.svg)](Mekanizmat/README.md)&nbsp;&nbsp;&nbsp;[![Deklarata e Akademikëve](assets/btn_deklarate.svg)](Deklarate/README.md)&nbsp;&nbsp;&nbsp;[![Referendumi](assets/btn_referendum.svg)](Referendum/README.md)
 
 <br>
 
