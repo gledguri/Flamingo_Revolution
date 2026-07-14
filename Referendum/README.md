@@ -64,30 +64,35 @@ KQZ-ja, **brenda 20 ditëve** nga paraqitja e kërkesës, pajis grupin nismëtar
 ### 4️⃣ Mbledhja e 50.000 firmave
 Mblidhen 50.000 firma sipas nenit 150, pika 1, Kushtetuta; neni 126, pika 1, Kodi Zgjedhor. Nënshkruesit duhet të jenë shtetas me të drejtë vote, të regjistruar në listat e zgjedhësve, me të dhëna të sakta identifikimi (emër, numër dokumenti, nënshkrim). Këshillohet të mblidhen dukshëm më shumë se 50.000 firma (p.sh. 70–100 mijë), sepse një pjesë skualifikohen gjatë verifikimit. Në precedentin e vitit 2012 (referendumi kundër importit të plehrave), KQZ-ja konstatoi parregullsi në nënshkrime, por numri i zgjedhësve që kishin nënshkruar mbeti mbi 50.000, në përmbushje të kërkesës kushtetuese. 
 
-**Dritarja kohore:** Firmat depozitohen në KQZ **vetëm midis 1 janarit dhe 30 nëntorit** të çdo viti (neni 127, pika 2). Firmat jashtë kësaj periudhe nuk pranohen.
+**Afati kohor:** Firmat depozitohen në KQZ **vetëm midis 1 janarit dhe 30 nëntorit** të çdo viti (neni 127, pika 2). Firmat jashtë kësaj periudhe nuk pranohen.
 
 
 ### 5️⃣ Verifikimi nga KQZ
-**Çfarë verifikohet:** Vlefshmëria e firmave dhe saktësia e të dhënave identifikuese të zgjedhësve (neni 128, pika 1).
-**Afati i vendimit:** KQZ-ja vendos për pranimin ose mospranimin e kërkesës **brenda 90 ditëve** nga depozitimi, bazuar vetëm në rregullsinë e dokumentacionit (neni 128, pika 2). Në rast mospranimi, vendimi duhet të shpjegojë qartë arsyet.
+Brenda 90 ditëve nga depozitimi i kërkesës së grupit nismëtar, KQZ verifikon firmat e mbi 50.000 zgjedhësve, saktësinë e dokumenteve të identifikimit dhe rregullsinë e dokumentacionit, dhe më pas vendos me vendim të arsyetuar pranimin ose jo të kërkesës për zhvillimin e referendumit (neni 128, pika 1). Në rast mospranimi, vendimi duhet të shpjegojë qartë arsyet.
+
 **Mundësia për korrigjim:** Nëse ka parregullsi, grupi nismëtar mund të njoftojë KQZ-në brenda **5 ditëve** se është gati t'i korrigjojë. KQZ-ja jep deri në **30 ditë** për ripërsëritje dhe vendos brenda **10 ditëve** të tjera mbi kërkesën e ripërsëritur (neni 128, pika 3).
 
-### 6️⃣ Përcjellja te Presidenti dhe Gjykata Kushtetuese
-Pasi verifikon rregullsinë, KQZ-ja ia përcjell kërkesën **Presidentit të Republikës** dhe **Gjykatës Kushtetuese**, dhe njofton njëkohësisht Kryetarin e Kuvendit dhe Kryeministrin (neni 129, pika 1).
+### 6️⃣ Përcjellja te Gjykata Kushtetuese dhe Presidenti
+Vendimi i KQZ-së për pranimin e kërkesës përbën mjetin për vënien në lëvizje të juridiksionit kushtetues. KQZ-ja ia përcjell kërkesën Presidentit të Republikës dhe Gjykatës Kushtetuese, dhe njofton njëkohësisht Kryetarin e Kuvendit dhe Kryeministrin (neni 129, pika 1).
 
-### 7️⃣ Kontrolli paraprak i kushtetutshmërisë
-Gjykata Kushtetuese vendos nëse kërkesa është në pajtim me Kushtetutën, **brenda 60 ditëve** nga marrja e saj nga KQZ-ja (neni 152, pika 1, Kushtetuta; neni 129, pika 2, Kodi Zgjedhor).
+### 7️⃣ Kontrolli paraprak i kushtetutshmërisë nga Gjykata Kushtetuese
+Në Gjykaten Kushtetuese kontrollohet nëse ligji hyn te kategoritë e ndaluara nga neni 151/2 i Kushtetutës (tërësia territoriale, kufizimi i lirive dhe të drejtave themelore, buxheti, taksat e detyrimet financiare të shtetit, gjendja e jashtëzakonshme, lufta e paqja, amnistia). Një ligj për zonat e mbrojtura nuk bën pjesë në kategoritë e ndaluara nga neni 151/2 i Kushtetutës (Gjykata e ka konfirmuar këtë logjikë në 2013, kur deklaroi të pajtueshme me Kushtetutën kërkesën për referendum shfuqizues të neneve të ligjit "Për menaxhimin e integruar të mbetjeve", pasi ato nuk i përkisnin kategorive të ndaluara).
+
+**Afati kohor:** 60 ditë.
 
 > ⚠️ **Kujdes:** Kjo është faza më kritike. Formulimi i pyetjes duhet të jetë i qartë, i plotë dhe të mos cenojë asnjë nga çështjet e ndaluara nga referendumi sipas nenit 151, pika 2, të Kushtetutës (tërësia territoriale, kufizimi i lirive/të drejtave themelore, buxheti, taksat, gjendja e jashtëzakonshme, lufta/paqja, amnistia). Shfuqizimi i një ligji mjedisor si Ligji 21/2024 **nuk përfshihet** në këto ndalime.
 
 ### 8️⃣ Caktimi i datës nga Presidenti
 Presidenti i Republikës cakton datën e referendumit **brenda 45 ditëve** nga shpallja e vendimit pozitiv të Gjykatës Kushtetuese, ose nga kalimi i afatit brenda të cilit ajo duhej të shprehej (neni 152, pika 3, Kushtetuta; neni 130, Kodi Zgjedhor). Referendumet zhvillohen **vetëm një ditë** gjatë vitit.
 
+**Afati kohor:** 45 ditë.
+
 ### 9️⃣ Fushata dhe dita e votimit
-Referendumi administrohet nga KQZ-ja nëpërmjet komisioneve zonale, sipas rregullave të parashikuara për zgjedhjet e Kuvendit, aq sa është e mundur ose e nevojshme (neni 120, pika 1).
+Referendumi administrohet nga KQZ-ja nëpërmjet komisioneve zonale, sipas rregullave të parashikuara për zgjedhjet e Kuvendit, aq sa është e mundur ose e nevojshme (neni 120, pika 1). Ky proçes është si çdo proces zgjedhor kombëtar: lista zgjedhësish, qendra votimi, vëzhgues, numërim dhe shpallje rezultati.
 
 ### 🔟 Rezultati dhe hyrja në fuqi
-**Kush fiton:** Alternativa që merr **shumicën e votave të vlefshme**, por **jo më pak se 1/3 e numrit të zgjedhësve** të regjistruar në Regjistrin Kombëtar të Zgjedhësve (neni 118, pika 3).
+Në referendum konsiderohet fituese alternativa që ka fituar shumicën e votave të vlefshme, por jo më pak se një të tretën e numrit të zgjedhësve të regjistruar në Listën e Zgjedhësve (neni 118, pika 3). Nëse alternativa "PRO shfuqizimit" i plotëson të dyja kushtet, ligji 21/2024 shfuqizohet me efektin e rezultatit të shpallur.
+
 **Kur hyn në fuqi shfuqizimi:** Menjëherë me shpalljen e rezultatit — përveçse nëse Kuvendi, me kërkesë të arsyetuar të Këshillit të Ministrave, vendos shtyrjen e shfuqizimit, por jo për më shumë se **60 ditë** (neni 121, pika 2).
 
 ---
