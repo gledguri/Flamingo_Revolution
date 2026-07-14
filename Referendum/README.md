@@ -12,17 +12,6 @@
 
 ## 🗳️ Referendumi Shfuqizues për Ligjin Nr. 21/2024
 
-> **Mohim përgjegjësie:** Ky është një udhërrëfyes informativ, i përgatitur mbi bazën e Kushtetutës dhe të legjislacionit zgjedhor në fuqi. Nuk përbën këshillë ligjore. Para se të nisni procedurën, konsultohuni me një jurist dhe verifikoni çdo afat pranë Komisionit Qendror të Zgjedhjeve (KQZ).
-
-<div align="center">
-
-[![▶ Shiko videon — Referendumi i Paketës së Maleve](https://img.youtube.com/vi/ZwF3qrm4NQA/maxresdefault.jpg)](https://www.youtube.com/shorts/ZwF3qrm4NQA)
-
-**[▶ &nbsp; Shiko videon në YouTube](https://www.youtube.com/shorts/ZwF3qrm4NQA)**
-
-</div>
-
----
 
 ### 📌 Pse referendum — dhe pse tani
 
