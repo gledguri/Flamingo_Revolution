@@ -12,6 +12,12 @@
 
 ## 🗳️ Referendumi Shfuqizues për Ligjin Nr. 21/2024
 
+### ⚖️ Baza ligjore
+
+Populli, nëpërmjet 50 mijë shtetasve me të drejtë vote, ka të drejtën e referendumit për shfuqizimin e një ligji. Referendumet zhvillohen sipas neneve 108 pika 4, 150, 151, 152 dhe 177 të Kushtetutës dhe rregullave të parashikuara në Kodin Zgjedhor (ligji nr. 9087, datë 19.06.2003) — pjesa e referendumeve e këtij kodi ka mbetur në fuqi, pasi Shqipëria ende nuk ka miratuar një ligj të posaçëm "Për Referendumet".
+
+- **Kushtetuta e Republikës së Shqipërisë**, nenet **150, 151 dhe 152**.
+- **Kodi Zgjedhor**, ligji nr. **9087, datë 19.06.2003** — Pjesa e Nëntë “Referendumet” (nenet 118–131). Kjo pjesë **mbetet ende në fuqi**, sipas nenit 185, pika 2, të Kodit Zgjedhor aktual (ligji nr. 10 019, datë 29.12.2008), derisa Kuvendi të miratojë një ligj të ri të posaçëm për referendumet.
 
 ### 📌 Pse referendum — dhe pse tani
 
@@ -21,12 +27,6 @@ Në datën **31.07.2025**, Gjykata Kushtetuese (vendimi nr. 45/2025, V-45/25 —
 
 **Kjo do të thotë që rruga e kontrollit kushtetues abstrakt (nëpërmjet deputetëve) është mbyllur.** Mjeti i vetëm i mbetur, i detyrueshëm dhe i nisur nga qytetarët, për të shfuqizuar ligjin, është **referendumi popullor** sipas nenit 150, pika 1, të Kushtetutës. (Shih edhe krahasimin e katër mjeteve të qytetarëve te [Mekanizmat/README.md](../Mekanizmat/README.md).)
 
----
-
-### ⚖️ Baza ligjore
-
-- **Kushtetuta e Republikës së Shqipërisë**, nenet **150, 151 dhe 152**.
-- **Kodi Zgjedhor**, ligji nr. **9087, datë 19.06.2003** — Pjesa e Nëntë “Referendumet” (nenet 118–131). Kjo pjesë **mbetet ende në fuqi**, sipas nenit 185, pika 2, të Kodit Zgjedhor aktual (ligji nr. 10 019, datë 29.12.2008), derisa Kuvendi të miratojë një ligj të ri të posaçëm për referendumet.
 
 ---
 
