@@ -19,6 +19,8 @@ Populli, nëpërmjet 50 mijë shtetasve me të drejtë vote, ka të drejtën e r
 - **Kushtetuta e Republikës së Shqipërisë**, nenet **150, 151 dhe 152**.
 - **Kodi Zgjedhor**, ligji nr. **9087, datë 19.06.2003** — Pjesa e Nëntë “Referendumet” (nenet 118–131). Kjo pjesë **mbetet ende në fuqi**, sipas nenit 185, pika 2, të Kodit Zgjedhor aktual (ligji nr. 10 019, datë 29.12.2008), derisa Kuvendi të miratojë një ligj të ri të posaçëm për referendumet.
 
+---
+
 ### 📌 Pse referendum — dhe pse tani
 
 Ligji Nr. 21/2024 “Për disa shtesa dhe ndryshime në ligjin nr. 81/2017 “Për zonat e mbrojtura”” hapi derën për ndërtimin e strukturave turistike “5 yje” dhe të infrastrukturës mbështetëse brenda zonave të mbrojtura, duke zëvendësuar ndalime të qarta (“nuk lejohet”, “ndalohet”) me koncepte më elastike (“kufizim”, “zhvillim i qëndrueshëm”).
