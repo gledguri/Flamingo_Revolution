@@ -114,8 +114,8 @@ Në referendum konsiderohet fituese alternativa që ka fituar shumicën e votave
 
 | Dokument | Përshkrimi |
 |---|---|
-| [Kërkesë per KQZ ... - 21 2024.docx](Documents/Kërkesë%20per%20KQZ%20per%20mbledhjen%20e%20firmave%20per%20referendum%20-%2021%202024.docx) | Kërkesa drejtuar KQZ-së për nisjen e procedurave dhe pajisjen me fletët-tip |
-| [Procesverbal i grupit nismëtar - 21 2024.docx](Documents/Procesverbal%20i%20grupit%20nismëtar%20-%2021%202024.docx) | Procesverbali themelues i grupit prej 12 nismëtarëve |
+| [Kërkesë per KQZ ... - 21 2024.pdf](Documents/Kërkesë%20per%20KQZ%20per%20mbledhjen%20e%20firmave%20per%20referendum%20-%2021%202024.pdf) | Kërkesa drejtuar KQZ-së për nisjen e procedurave dhe pajisjen me fletët-tip |
+| [Procesverbal i grupit nismëtar - 21 2024.pdf](Documents/Procesverbal%20i%20grupit%20nismëtar%20-%2021%202024.pdf) | Procesverbali themelues i grupit prej 12 nismëtarëve |
 | [vend.4525.pdf](Documents/vend.4525.pdf) | Vendimi nr. 45/2025 (V-45/25) i Gjykatës Kushtetuese, që rrëzoi kërkesën e deputetëve dhe la referendumin si rrugën e mbetur |
 
 ---
