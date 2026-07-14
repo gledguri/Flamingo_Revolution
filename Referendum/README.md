@@ -44,7 +44,7 @@ Në datën **31.07.2025**, Gjykata Kushtetuese (vendimi nr. 45/2025, V-45/25 —
 Kërkesa për fillimin e procedurave të referendumit shfuqizues paraqitet në KQZ nga një grup prej jo më pak se 12 nismëtarësh (neni 126, pika 2, Kodi Zgjedhor), të cilët duhet të jenë zgjedhës të regjistruar në Regjistrin Kombëtar të Zgjedhësve. Kërkesa duhet të përcaktojë qartë objektin: shfuqizimin e Ligjit nr. 21/2024 në tërësinë e tij.
 
 **Çfarë bëhet:** Grupi mblidhet dhe firmos një **procesverbal themelues**, ku përcaktohet qëllimi (shfuqizimi i ligjit 21/2024) dhe pyetja që do t'u shtrohet zgjedhësve.
-**Dokument gati për përdorim:** [Procesverbal i grupit nismëtar - 21 2024.pdf](Documents/Procesverbal%20i%20grupit%20nismëtar%20-%2021%202024.pdf)
+**Dokument gati për përdorim:** [Procesverbal i grupit nismëtar - 21 2024.pdf](Documents/Kerkese_per_KQZ_per_mbledhjen_e_firmave_per_referendum_21_2024.pdf)
 
 ### 2️⃣ Depozitimi i kërkesës në KQZ
 Grupi nismëtar regjistron kërkesën në Komisionin Qendror të Zgjedhjeve dhe pajiset prej tij me fletët-tip zyrtare për mbledhjen e nënshkrimeve. Praktika e mëparshme tregon se nismëtarët i kërkojnë KQZ-së t'i pajisë me fletët tip për grumbullimin e firmave — firmat e mbledhura jashtë këtyre fletëve nuk njihen. 
