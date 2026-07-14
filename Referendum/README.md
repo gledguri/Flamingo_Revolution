@@ -41,12 +41,14 @@ Në datën **31.07.2025**, Gjykata Kushtetuese (vendimi nr. 45/2025, V-45/25 —
 ## 📅 Hapat Kronologjikë
 
 ### 1️⃣ Formimi i grupit nismëtar
-**Kush:** Të paktën **12 zgjedhës** të regjistruar në Regjistrin Kombëtar të Zgjedhësve (neni 126, pika 2, Kodi Zgjedhor).
+Kërkesa për fillimin e procedurave të referendumit shfuqizues paraqitet në KQZ nga një grup prej jo më pak se 12 nismëtarësh (neni 126, pika 2, Kodi Zgjedhor), të cilët duhet të jenë zgjedhës të regjistruar në Regjistrin Kombëtar të Zgjedhësve. Kërkesa duhet të përcaktojë qartë objektin: shfuqizimin e Ligjit nr. 21/2024 në tërësinë e tij.
+
 **Çfarë bëhet:** Grupi mblidhet dhe firmos një **procesverbal themelues**, ku përcaktohet qëllimi (shfuqizimi i ligjit 21/2024) dhe pyetja që do t'u shtrohet zgjedhësve.
 **Dokument gati për përdorim:** [Procesverbal i grupit nismëtar - 21 2024.docx](Documents/Procesverbal%20i%20grupit%20nismëtar%20-%2021%202024.docx)
 
 ### 2️⃣ Depozitimi i kërkesës në KQZ
-**Kush:** Grupi nismëtar, drejtuar Komisionerit Shtetëror të Zgjedhjeve.
+Grupi nismëtar regjistron kërkesën në Komisionin Qendror të Zgjedhjeve dhe pajiset prej tij me fletët-tip zyrtare për mbledhjen e nënshkrimeve. Praktika e mëparshme tregon se nismëtarët i kërkojnë KQZ-së t'i pajisë me fletët tip për grumbullimin e firmave — firmat e mbledhura jashtë këtyre fletëve nuk njihen. 
+
 **Çfarë duhet të përmbajë kërkesa** (neni 126, pika 4, Kodi Zgjedhor):
 - titullin, numrin dhe datën e miratimit të ligjit që kërkohet të shfuqizohet (Ligji Nr. 21/2024);
 - arsyet pse ligji duhet të shfuqizohet;
@@ -56,16 +58,17 @@ Në datën **31.07.2025**, Gjykata Kushtetuese (vendimi nr. 45/2025, V-45/25 —
 
 > ℹ️ Kërkesa për shfuqizimin e **vetëm një pjese** të ligjit pranohet nga KQZ vetëm nëse pjesa tjetër mbetet e vetëmjaftueshme (neni 126, pika 3). Në rastin tonë kërkohet shfuqizimi i të gjithë ligjit, kështu që kjo kufizim nuk zbatohet.
 
-### 3️⃣ Pajisja me fletët-tip për mbledhjen e nënshkrimeve
-**Afati:** KQZ-ja, **brenda 20 ditëve** nga paraqitja e kërkesës, pajis grupin nismëtar (kundrejt pagesës) me fletët-tip zyrtare për mbledhjen e nënshkrimeve (neni 127, pika 1). Në krye të çdo fletoreje shtypet titulli i ligjit dhe pyetja e referendumit.
+### 3️⃣ Pajisja me fletët-tip për mbledhjen e firmave
+KQZ-ja, **brenda 20 ditëve** nga paraqitja e kërkesës, pajis grupin nismëtar (kundrejt pagesës) me fletët-tip zyrtare për mbledhjen e nënshkrimeve (neni 127, pika 1). Në krye të çdo fletoreje shtypet titulli i ligjit dhe pyetja e referendumit.
 
-### 4️⃣ Mbledhja e 50.000 nënshkrimeve
-**Sa firma:** Të paktën **50.000 zgjedhës** të regjistruar në Regjistrin Kombëtar të Zgjedhësve (neni 150, pika 1, Kushtetuta; neni 126, pika 1, Kodi Zgjedhor).
-**Dritarja kohore:** Nënshkrimet depozitohen në KQZ **vetëm midis 1 janarit dhe 30 nëntorit** të çdo viti (neni 127, pika 2). Nënshkrime jashtë kësaj periudhe nuk pranohen.
-**Këshillë praktike:** Mblidhni më shumë se 50.000, sepse KQZ do të skualifikojë firma me të dhëna identifikuese jo të sakta (shih hapin tjetër).
+### 4️⃣ Mbledhja e 50.000 firmave
+Mblidhen 50.000 firma sipas nenit 150, pika 1, Kushtetuta; neni 126, pika 1, Kodi Zgjedhor. Nënshkruesit duhet të jenë shtetas me të drejtë vote, të regjistruar në listat e zgjedhësve, me të dhëna të sakta identifikimi (emër, numër dokumenti, nënshkrim). Këshillohet të mblidhen dukshëm më shumë se 50.000 firma (p.sh. 70–100 mijë), sepse një pjesë skualifikohen gjatë verifikimit. Në precedentin e vitit 2012 (referendumi kundër importit të plehrave), KQZ-ja konstatoi parregullsi në nënshkrime, por numri i zgjedhësve që kishin nënshkruar mbeti mbi 50.000, në përmbushje të kërkesës kushtetuese. 
+
+**Dritarja kohore:** Firmat depozitohen në KQZ **vetëm midis 1 janarit dhe 30 nëntorit** të çdo viti (neni 127, pika 2). Firmat jashtë kësaj periudhe nuk pranohen.
+
 
 ### 5️⃣ Verifikimi nga KQZ
-**Çfarë verifikohet:** Vlefshmëria e nënshkrimeve dhe saktësia e të dhënave identifikuese të zgjedhësve (neni 128, pika 1).
+**Çfarë verifikohet:** Vlefshmëria e firmave dhe saktësia e të dhënave identifikuese të zgjedhësve (neni 128, pika 1).
 **Afati i vendimit:** KQZ-ja vendos për pranimin ose mospranimin e kërkesës **brenda 90 ditëve** nga depozitimi, bazuar vetëm në rregullsinë e dokumentacionit (neni 128, pika 2). Në rast mospranimi, vendimi duhet të shpjegojë qartë arsyet.
 **Mundësia për korrigjim:** Nëse ka parregullsi, grupi nismëtar mund të njoftojë KQZ-në brenda **5 ditëve** se është gati t'i korrigjojë. KQZ-ja jep deri në **30 ditë** për ripërsëritje dhe vendos brenda **10 ditëve** të tjera mbi kërkesën e ripërsëritur (neni 128, pika 3).
 
