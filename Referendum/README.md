@@ -44,7 +44,7 @@ Në datën **31.07.2025**, Gjykata Kushtetuese (vendimi nr. 45/2025, V-45/25 —
 Kërkesa për fillimin e procedurave të referendumit shfuqizues paraqitet në KQZ nga një grup prej jo më pak se 12 nismëtarësh (neni 126, pika 2, Kodi Zgjedhor), të cilët duhet të jenë zgjedhës të regjistruar në Regjistrin Kombëtar të Zgjedhësve. Kërkesa duhet të përcaktojë qartë objektin: shfuqizimin e Ligjit nr. 21/2024 në tërësinë e tij.
 
 **Çfarë bëhet:** Grupi mblidhet dhe firmos një **procesverbal themelues**, ku përcaktohet qëllimi (shfuqizimi i ligjit 21/2024) dhe pyetja që do t'u shtrohet zgjedhësve.
-**Dokument gati për përdorim:** [Procesverbal i grupit nismëtar - 21 2024.pdf](Documents/Kerkese_per_KQZ_per_mbledhjen_e_firmave_per_referendum_21_2024.pdf)
+**Dokument gati për përdorim:** [Procesverbal i grupit nismëtar - 21 2024.pdf](Documents/Procesverbal_i_grupit_nismetar_21_2024.pdf)
 
 ### 2️⃣ Depozitimi i kërkesës në KQZ
 Grupi nismëtar regjistron kërkesën në Komisionin Qendror të Zgjedhjeve dhe pajiset prej tij me fletët-tip zyrtare për mbledhjen e nënshkrimeve. Praktika e mëparshme tregon se nismëtarët i kërkojnë KQZ-së t'i pajisë me fletët tip për grumbullimin e firmave — firmat e mbledhura jashtë këtyre fletëve nuk njihen. 
@@ -54,7 +54,7 @@ Grupi nismëtar regjistron kërkesën në Komisionin Qendror të Zgjedhjeve dhe 
 - arsyet pse ligji duhet të shfuqizohet;
 - pyetjen që do t'u shtrohet zgjedhësve, e formuluar qartë, plotësisht dhe pa ekuivoke, në mënyrë që të përgjigjen me “PO” ose “JO”.
 
-**Dokument gati për përdorim:** [Kërkesë per KQZ per mbledhjen e firmave per referendum - 21 2024.pdf](Documents/Kërkesë%20per%20KQZ%20per%20mbledhjen%20e%20firmave%20per%20referendum%20-%2021%202024.pdf) — kërkesa formulon pyetjen: *“A jeni dakord ju personalisht që Ligji Nr. 21/2024 … të shfuqizohet?”*
+**Dokument gati për përdorim:** [Kërkesë per KQZ per mbledhjen e firmave per referendum - 21 2024.pdf](Documents/Kerkese_per_KQZ_per_mbledhjen_e_firmave_per_referendum_21_2024.pdf) — kërkesa formulon pyetjen: *“A jeni dakord ju personalisht që Ligji Nr. 21/2024 … të shfuqizohet?”*
 
 > ℹ️ Kërkesa për shfuqizimin e **vetëm një pjese** të ligjit pranohet nga KQZ vetëm nëse pjesa tjetër mbetet e vetëmjaftueshme (neni 126, pika 3). Në rastin tonë kërkohet shfuqizimi i të gjithë ligjit, kështu që kjo kufizim nuk zbatohet.
 
