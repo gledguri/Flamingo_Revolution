@@ -74,18 +74,6 @@
   <text x="205" y="966" text-anchor="middle" dominant-baseline="central" fill="rgb(153,60,29)" font-size="12">Duhet te plotesohen dy kushte: (i) Shumica e<tspan x="205" dy="16">votave PRO shfuqizimit dhe (ii) 40% e zgjedhësve</tspan><tspan x="205" dy="16">PRO shfuqizimit</tspan></text>
 </g>
 
-<!-- Standalone box: minimal figures -->
-<g>
-  <rect x="410" y="772" width="230" height="132" rx="8" fill="rgb(252,235,235)" stroke="rgb(163,45,45)" stroke-width="0.5"/>
-  <text x="525" y="794" text-anchor="middle" dominant-baseline="central" fill="rgb(121,31,31)" font-size="14" font-weight="500">Shifrat minimale (3.7M votues)</text>
-  <text x="424" y="818" dominant-baseline="central" fill="rgb(163,45,45)" font-size="12">• Pjesëmarrja: 1,490,000
-    <tspan x="424" dy="17">• Vota të vlefshme: 1,120,000</tspan>
-    <tspan x="424" dy="17">• PRO: 560,001</tspan>
-    <tspan x="424" dy="17">• KUNDËR: 559,999</tspan>
-    <tspan x="424" dy="17">• Vota të pavlefshme: 370,000</tspan>
-  </text>
-</g>
-
 <!-- Threshold box, aligned with step 8 -->
 <line x1="360" y1="972" x2="410" y2="972" fill="none" stroke="rgb(137,135,129)" stroke-width="0.5" stroke-dasharray="4 3"/>
 <g>
