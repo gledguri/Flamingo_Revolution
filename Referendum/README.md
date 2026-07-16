@@ -91,7 +91,14 @@ Presidenti i Republikës cakton datën e referendumit **brenda 45 ditëve** nga 
 Referendumi administrohet nga KQZ-ja nëpërmjet komisioneve zonale, sipas rregullave të parashikuara për zgjedhjet e Kuvendit, aq sa është e mundur ose e nevojshme (neni 120, pika 1). Ky proçes është si çdo proces zgjedhor kombëtar: lista zgjedhësish, qendra votimi, vëzhgues, numërim dhe shpallje rezultati.
 
 ### 🔟 Rezultati dhe hyrja në fuqi
-Në referendum konsiderohet fituese alternativa që ka fituar shumicën e votave të vlefshme, por jo më pak se një të tretën e numrit të zgjedhësve të regjistruar në Listën e Zgjedhësve (neni 118, pika 3). Nëse alternativa "PRO shfuqizimit" i plotëson të dyja kushtet, ligji 21/2024 shfuqizohet me efektin e rezultatit të shpallur.
+Në referendum konsiderohet fituese alternativa që ka fituar shumicën e votave të vlefshme, por jo më pak se 40% e numrit të zgjedhësve të regjistruar në Listën e Zgjedhësve (neni 118, pika 3). Nëse alternativa "PRO shfuqizimit" i plotëson të dyja kushtet, ligji 21/2024 shfuqizohet me efektin e rezultatit të shpallur.
+
+Numri zyrtar i zgjedhësve të regjistruar në Shqipëri për zgjedhjet e 11 majit 2025 është 3,713,761, sipas listës përfundimtare të publikuar nga Ministria e Brendshme dhe të mbikëqyrur nga KQZ-ja. Me nje perllogaritje te thjeshte shifrat minimale jane:
+* Pjesëmarrja: 1,490,000
+* Vota të vlefshme: 1,120,000
+* PRO: 560,001
+* KUNDËR: 559,999
+* Vota të pavlefshme: 370,000
 
 **Kur hyn në fuqi shfuqizimi:** Menjëherë me shpalljen e rezultatit — përveçse nëse Kuvendi, me kërkesë të arsyetuar të Këshillit të Ministrave, vendos shtyrjen e shfuqizimit, por jo për më shumë se **60 ditë** (neni 121, pika 2).
 
