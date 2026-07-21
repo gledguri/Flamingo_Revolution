@@ -8,7 +8,7 @@
 
 <br>
 
-[![Shkeljet Ligjore](assets/btn_shkeljet.svg)](Shkeljet_ligjore_vnm/README.md)&nbsp;&nbsp;&nbsp;[![Mekanizmat Ligjore](assets/btn_mekanizmat.svg)](Mekanizmat/README.md)&nbsp;&nbsp;&nbsp;[![Referendumi](assets/btn_referendum.svg)](Referendum/README.md);[![Letër ftese](assets/btn_leter_ftese.svg)](Leter_ftese/README.md)&nbsp;&nbsp;&nbsp
+[![Shkeljet Ligjore](assets/btn_shkeljet.svg)](Shkeljet_ligjore_vnm/README.md)&nbsp;&nbsp;&nbsp;[![Mekanizmat Ligjore](assets/btn_mekanizmat.svg)](Mekanizmat/README.md)&nbsp;&nbsp;&nbsp;[![Referendumi](assets/btn_referendum.svg)](Referendum/README.md);[![Letër ftese](assets/btn_leter_ftese.svg)](Leter_ftese/README.md)&nbsp;&nbsp;
 
 <br>
 
