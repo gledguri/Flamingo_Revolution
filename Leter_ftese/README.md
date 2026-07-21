@@ -13,7 +13,7 @@ Për të nisur formalisht procedurat e referendumit kërkohet ngritja e një gru
 
 Për më tepër informacione mbi procesin e detajuar të referendumit mund të vizitoni faqen e website si në vijim: [Flamingo_Revolution/Referendum/README.md](https://github.com/gledguri/Flamingo_Revolution/blob/main/Referendum/README.md)
 
-![Figura 1. Infografik përmbledhës (i shkurtuar) mbi procesin e referendumit.](Timeline_perspective.png)
+![Figura 1. Infografik përmbledhës (i shkurtuar) mbi procesin e referendumit.](Graphs/Timeline_perspective.png)
 
 *Figura 1. Infografik përmbledhës (i shkurtuar) mbi procesin e referendumit.*
 
