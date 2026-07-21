@@ -11,12 +11,10 @@ Për të nisur formalisht procedurat e referendumit kërkohet ngritja e një gru
 - të gëzojnë reputacion të mirë publik,
 - të mos kenë konflikte interesi.
 
-Për më tepër informacione mbi procesin e detajuar të referendumit mund të vizitoni faqen e website si në vijim:
-<div align="center">
+Për më tepër informacione mbi procesin e detajuar të referendumit mund të vizitoni faqen:
+[Referendum për Ligjin 21/2024](https://github.com/gledguri/Flamingo_Revolution/blob/main/Referendum/README.md)
 
-[![Referendum për ligjin 21/2024](../assets/btn_referendum.svg)](https://github.com/gledguri/Flamingo_Revolution/blob/main/Referendum/README.md)
 
-</div>
 
 
 ![Figura 1. Infografik përmbledhës (i shkurtuar) mbi procesin e referendumit.](Graphs/Timeline_perspective.png)
